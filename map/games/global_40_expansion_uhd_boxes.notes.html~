@@ -1,7 +1,9 @@
 <div style="padding:10px;font-size:14px;background-color:white;text-align:justify;">
 <b>Global 40 Expansion UHD Boxes</b><br>
 <br>
-It uses the Black Elk Mega Map based off of the Bung,Veqryn "World War II Global 1940 2nd Edition" Map. <br>
+<img src="EXP.png"/><br>
+<br>			
+It uses the UHD Mega Map based off of the Bung,Veqryn "World War II Global 1940 2nd Edition" Map. <br>
 <br>
 <b>FREE Hand Painted Game Pieces</b> for games played. More Information here:<br>
 <br>
@@ -12,35 +14,36 @@ This is a House Rule Mod for "World War II Global 1940 2nd Edition". It was Crea
 <br>
 <br>
 and here:<br><br><b>https://www.axisandallies.org/forums/topic/36945/axis-allies-global-1940-house-rules-expansion</b><br><br>
-The rules can be found here:<br><br><b>https://drive.google.com/file/d/1SRDOsOwlO4Aa13cULwkWrorrXEmCmiN-/view</b><br>
-<br>
 <b>Latest Triplea Version is Here<br><br> https://www.axisandallies.org/forums/topic/36998/global-1940-and-1943-expansion-for-use-with-triplea</b><br>
 <br>
 This mod will play more like a TableTop game than most triplea maps. While there is the need for edit use, it is completely playable and will become second nature after a few games. It's <b>Huge</b> upside is well worth the effort.<br>
 <br>
-The following is just going to address the triplea game play, although the Help button top right has some Unit information. You will need to read the rules download for full game information.<br>
+<b>NOTE</b><br><br>
+<b>New Wolfpack and Paratrooper Procedure as of May 2 2024. Version 1.99</b><br>
 <br>
-<b>Different Landmines</b><br>
+<b>Pacific Islands Updated 2.16 May 27 2024.</b><br>
 <br>
-<img src="russian_mine_Red2.png"/> <br><br>
-If you wish to use a different LM image, you need to switch units folders before Game Start.<br>
+<b>Different Panzer/Tank Generals</b><br>
+<br>
+<img src="2ndPanzerArmy.png"/>  <img src="1stUSTank.png"/> <br><br>
+The default uses "Tokens". The alternative uses "Faces".<br>
 <br>
 Open triplea folder<br>
 Open downloadedMaps<br>
 Open map<br>
-Remove units<br>
-Open Landmines Solo and copy units folder.<br>
-Go back to where you removed units and paste new units folder. The default images are Landmines Player. Landmines Solo will not have the Nation specific roundel.<br>
+Open units<br>
+Open the player specific folder and copy/paste the appropriate image.It's easier to copy the entire Tank Generals folder and leave it open somewhere else for the copy/paste.<br><br>
+The following is just going to address the triplea game play, although the Help button top right has some Unit information. You will need to read the rules download for full game information.<br>
 <br>
 <b>Here are some Important Ones</b> Pointed out by Victory First.<br><br>
 It’s important to know these Player-Enforced rules. Everything is stated in the game notes, so you can give that one a read as well, but just highlighting here the most important ones:
 <br><br>
 Transports need to be selected last as casualty.
 <br><br>
-Use Edit when conducting a combat that includes Paratroopers or U-boat units. <br>
+Use Edit when conducting a combat that includes Paratroopers or U-boat units. <br><br> <b>Wolfpacks and Paratroopers have been updated and Edit is now rarely needed.</b><br><br>
 When Edit mode is on, you can select any number of casualties you want, regardless of the rolls you made. Count up the hits manually, keeping in mind the improved attack/defense value of the units.<br>
 <br>
-If fighting a Large Naval battle, it is suggested to use the Dice Roller or Dice Bot for the 1st rd of combat. Do your combat move, save game, roll dice. Restart game, undo any combat moves to the battle. Remove any casualties with edit. Then redo the now adjusted combat move. 
+If fighting a Large Naval battle, it is suggested to use Edit and select the casualties manually. It actually works quite well, as you usually have to adjust the triplea chosen casualties anyway.
 <br>
 <br>
 <b>NOTE</b><br>
@@ -54,14 +57,12 @@ Use edit to move Paratroopers over Enemy Territory and for LCVs.<br>
 <br>
 When an Army is active, you should edit a new army-leading unit depending on the units it commands. Barnee should let you know more about this since I don’t know exactly what army-leading unit commands what.
 <br><br>
-<b>NOTE</b><br>
-<br>
-When doing Wolfpack and Landmine Battles with Dicebot:<br>
-Do your Combat Move. Then do 1st rd of any Wolfpack/Landmine Battles in Dicebot. Undo your CM and edit casualties. Then continue with your normal CM.<br>
-<br>
-Any Units that have moved from the same originating TTy/SZ, will have to have there moves undone in order to use edit to remove units that started there as well. <B>This is true for All Edit moves.</b><br>
-<br>
-If possible and not too mind blowing, try and move all units from the TTy/SZ that will be sending U-boats/Crossing Minefields to the Battle in one CM or Moves. That way you only need to undo that move or moves, if attacking from more than one TTy, and not the ones that are attacking a different zone.<br>
+When doing Landmine Battles with Dicebot, Follow these steps:<br><br>
+Do your Entire Combat Move.<br>
+Roll for any Landmines that have been crossed and make note of any hits.<br>
+At the Beginning of Combat, if there were any LM hits, go to Edit and remove the appropriate units and LMs.<br>
+Then, turn Edit off and fight the battle normally.<br><br>
+If there is only one battle to be fought, you will need to be in Edit before you start Battle Phase, as triplea will immediately start the battle.<br>
 <br>
 If you start the Battle in Edit, you will have to Fight All of it in Edit.
 <br>
@@ -115,7 +116,8 @@ Most Starting Units will be on the Left side of the Edit Window. Unfortunately, 
 <br>
 There is an Invisible Factory that allows placement in Boxes. Use <b>Caution</b> when editing units in and out of Boxes so you don't delete it. If you do by accident, you can edit it back in. It's called "BoxFctry". <br>
 <br>
-<b>You Must Use Edit</b> to Move To and From and will only be able to move in CM and NCM. Use "Perform Move Or Other Actions" while in Edit. You will be able to move other Players' Units as well. However, you can only move to legal territories. For example, Germany can't move Units into russia without being at War. You will need to Edit otherwise and Manually Place/Replace.<br><br>
+<b>You Must Use Edit</b> to Move To and From and will only be able to move in CM and NCM. Use "Perform Move Or Other Actions" while in Edit. You will be able to move other Players' Units as well. However, you can only move to legal territories. For example, Germany can't move Units into russia without being at War.<br><br> <b> NOTE<br> You may temporarily edit russia and Germany to War if you have a large number of moves to make and then edit back to Neutrality.</b> <br>
+<br> You will need to Edit otherwise and Manually Place/Replace.<br><br>
 Also, you can move units in Edit, then move additional units somewhere else and not have to hit "Perform Move ..." again. You can do multiple moves. In other words, you don't need to click on "Perform Move or Other Actions" for every move.<br>
 <br>
 <b>Note</b><br>
@@ -126,22 +128,10 @@ If using Edit to move units in Combat Move, it may take you over an unintended r
 <br>
 Also, you can Edit Units to a Territory and then Move them the same turn but you <b>Cannot</b> Move Units and then Edit them into the Territory you moved from.<br>
 <br>
-If Hand Rolling for Paratrooper and UBoat battles, it is suggested to roll in Edit Mode. You may also use the Dice Roller or Dice Bot and Edit the results.<br><br>
 <b>Landmine Boxes</b> are for Informational purposes only. You cannot move units there. The top Territory is where the LM is located. The color denotes which LM. The bottom Territory is the Border it defends against.<br>
 For Example. Western Germany has a Orange LM with France at the bottom. That means that Orange LMs in W GER defend against the border with France.<br>
 When in doubt, use the Comment Log located under "View" upper left, to designate which LMs are defending which border. <br> <br>
 Landmines have to be hand rolled with either the Dice Roller or Dice Bot from A&A.org.https://www.axisandallies.org/forums/topic/39917/when-you-need-a-topic-to-use-the-dicebot-do-it-here/27<br>
-<br>
-You can't edit if having already moved from a territory.<br>
-<br>
-<b>Example</b><br>
-3 Infantry attack from Eastern Poland to Belarus and must cross 3 Landmines. E POL is also going to send units to other attacks. <br>
-<b>You Must Move All Units that Will Participate in the Belarus Attack Before Rolling For The Landmine Hits.</b><br>
-Roll for the 3 Landmines and then undo your move to Belarus and use Edit to remove any hits/Landmines as necessary. Then redo your Belarus Move minus any Hits.<br>
-<br>
-You may only use Edit to move units during Combat and NonCombat Move. This includes other Players. However, you can only move to legal territories. For example, Germany can't move Units into russia without being at War.<br>
-<br>
-Most Starting Units will be on the Left Side of the Edit Window. Unfortunately, the Window is <b>Inconsistent</b>, so they won't always be in the same place.<br>
 <br>
 Usually, after editing LMs, the next time you open edit, those LMs will have moved to the left column.<br>
 <br>
@@ -162,6 +152,7 @@ Bryansk<br>
 Rostov<br>
 Caucasus<br>
 Novgorod<br>
+Archangel<br>
 <br>
 <b>Active Army Groups</b> must be rolled with Edit as above for complete Rule Compliance or Players can agree to count the hit when the Army Group is no longer Active the way triplea does it. Edit an "Inactive Army Group to the Defending Player if it doesn't have one to offset the Attacking one. Do Not take as casualty until after the Attacking one has been killed.<br>
 <br>
@@ -179,16 +170,7 @@ You need to edit to <b>"Hvy_BB_Dmgd" and "BB_Damaged"</b> before your next comba
 <br>
 <b>Pacific Island Bonuses</b><br>
 <br>
-Some Pacific Island Bonuses don't activate correctly. Currently, if you conquer an opposing Players Territory ( Including Dutch Territorries ) and then lose it, it will only give the negative bonus for that turn. All proceeding turns will not give the negative bonus. If/when you reconquer the Territory, it will work correctly for that turn and then revert to previous behavior.
-Use Edit to correct.<br>
-<br>
-Also, if you attack a previously conquered Island and fail to take it, it will give you the negative PUs for losing that Island.<br>
-<br>
-For example. If ANZAC takes Celebes and then Japan takes it and then UK attacks Celebes and fails to take it, UK will receive the negative objective for losing the Island.<br>
-<br>
-So you will need to edit the correct PU total after UK's turn. ANZAC will still receive the negative objective, unless they take Celebes that turn. That may or may not require edit depending on when they lost it.<br>
-<br>
-If it is a Territorry you Originally Owned, it will work correctly by subtracting or adding the Bonus every Turn.<br>
+These should now work correctly.<br>
 <br>
 <b>Important</b><br>
 <br>
@@ -259,9 +241,11 @@ When being supported by Artillery and other Artillery supportable units are pres
 <br>
 <b>7. Paratroopers</b><br>
 <img src="USA_para.png"/> <br><br>
-<b>It is Recommended to Roll All Para Battles in Edit Mode Using the Intended Rules</b><br><br>
-Paratroopers Move 2 and +1 from an Airfield. Player Enforce correct land movement of 1 move only. Paratroopers may require edit for their "Air Movement". Before attacking, if facing AA fire, activate "Roll Dice" under "Game", top left, or use Dicebot and roll for AA fire. Then use edit to kill any hits and if needed, select "Perform Move Or Other Actions" and then click on the Paratrooper and make a legal move. If there is only 1 battle to be fought that Combat Phase, you will need to do this at the <b>START</b> of your Combat Move.<br>
+<b>Paratroopers have been updated and Edit is now rarely needed</b><br><br>
+...paraBoost Units have been added to the Major Powers. They provide +2 on Attack and +1 on Defense for the first round of battle. They will auto die after combat rolls and can't be taken as a hit.<br>
+If planning a All Paratrooper Attack, move the ParaBoost into battle with the Paratroopers.<br>
 <br>
+Paratroopers Move 2 and +1 from an Airfield. Player Enforce correct land movement of 1 move only. Paratroopers may require edit for their "Air Movement". Before attacking, if facing AA fire, activate "Roll Dice" under "Game", top left, or use Dicebot and roll for AA fire. Then use edit to kill any hits and if needed, select "Perform Move Or Other Actions" and then click on the Paratrooper and make a legal move. If there is only 1 battle to be fought that Combat Phase, you will need to do this at the <b>START</b> of your Combat Move.<br><br>
 <b>IMPORTANT</b><br>
  If accompanied by Air Units during an edit assisted attack across water, along with other ground Units performing an <b>Amphibious Attack</b> , All Paras <b>MUST</b> die before retreating the Air Units or the game will freeze.<br>
 If no accompanying ground Units, you can't retreat the Air Units until <b>ALL</b> Paras are dead. It will then throw a "Withdraw" error when you retreat the remaining Planes, but that is one you can ignore.<br>
@@ -269,7 +253,7 @@ If no accompanying ground Units, you can't retreat the Air Units until <b>ALL</b
 They will also be allowed to retreat from Land Battles. This is a legal move.<br>
 <br>
 <b>NOTE</b><br>
-You may wish to roll Paratrooper only battles (attacking or defending) by hand according to the Global 40 Expansion Rules. <b>Note</b> When Attacking AA Guns, you will need to <b>Hand Roll</b> before Battle and Edit for a precise result, otherwise Paratroopers will be ignored by AA Fire.<br>
+When Attacking AA Guns, you will need to <b>Hand Roll</b> before Battle and Edit for a precise result, otherwise Paratroopers will be ignored by AA Fire.<br>
 <br>
 <b>Also</b> if you are only doing 1 attack that phase, don't forget to turn off edit before ending your Combat Move. Otherwise, it will go straight to Battle and you can't turn edit off then.<br>
 <br>
@@ -287,7 +271,11 @@ This is to maintain correct PU levels and keep track of how many Lend Lease Unit
 If The Lend-Lease Units come under attack before Russia's turn, don't take the Lend-Lease image as a hit. It will auto die if the battle is lost.<br>
 Player Enforced Unit Limits. You may want to use the "Comment Log" under View, Top left, to keep track of how many Units have been sent.<br>
 <br>
-<b>"US and UK Lend-Lease"</b> Game Option is just a way for Players to agree to it's use. It has no affect on game play.<br>
+<b>"US and UK Lend-Lease"</b> <br>
+<br>
+<b>This now works the same as the Soviet Lend Lease where you purchase the Lend lease Fee.</b>
+<br>
+Is On by Default at Game Start.<br>
 <br>
 Rules are here: https://www.axisandallies.org/forums/topic/37806/global-1940-us-uk-lend-lease?_=1700781926910<br>
 <br>
@@ -303,7 +291,7 @@ You may <b>NOT</b> place and then Destroy on the same turn. Player Enforced.  Us
 When replacing a Heavy Major or Minor Factory with an Underground Factory, you will need to use Edit. They will replace non upgraded Factories correctly.<br>
 <br>
 <b>Russian Factories</b>.<br> 
-While the Factory can move on it's own, you will need to keep track of Rail movement usage. Player Enforced. They will auto-destroy when captured.<br>
+While the Factory can move on it's own, you will need to keep track of Rail movement usage. Player Enforced. They will auto-destroy when captured. Replace with edit if needed.<br>
 <br>
 You will need to use Edit to remove Airfields and Harbours. <br>
 <br>
@@ -328,14 +316,12 @@ So if you send 2 Fighter Escorts and 2 Bombers with 2 Interceptors defending and
 <br>
 <b>Important</b><br>
 <br>
-Some Pacific Island Bonuses don't activate correctly. Currently, if you conquer an opposing Players Territory and then lose it, it will only give the negative bonus for that turn. All proceeding turns will not give the negative bonus. If/when you reconquer the Territory, it will work correctly for that turn and then revert to previous behaviour.
- <br>
-Use Edit to correct.<br>
+This has been updated on <b>May 27 2024</B>.<br>
+Has Not been tested extensively.<br>
+Consult Game Rules and use Edit to correct as needed.<br>
 <br>
 In the Rare instance USA is in positon to enter Dutch New Guinea first, you will need to Player Enforce that it doesn't. <br><br>
-Defenders from different Players, may or may not, incorrectly activate the negative bonus if Japan conquers. Use Edit if needed.<br>
-<br>After round 30 you will need to use edit for correct PU behavior.<br>
-<br>
+Use Edit if needed.<br><br>
 May be turned off in "Map Options".<br>
 <br>
 <b>2. Increased Ship Building</b><br>
@@ -352,10 +338,10 @@ Only Factories at Game Start can be upgraded. Player Enforced. Use First Place P
 <br>
 <b>4. Landmine</b><br>
 <br>
-<img src="russian_mine.png"/> <br><br>
+<img src="russian_mine.png"/>   <img src="soloMine.png"/><br><br>
 This requires extensive edit use. There is also a TripleA option that is "edit free" explained below.<br>
 <br>
-You may purchase "unarmed" mines and place them in your Capital and India for UK. It will allow you to place as many as you want, so placement is Player Enforced.<br>
+You may purchase "unarmed" mines and place them in your Capital and India for UK. <br> When placing in a damaged Factory, you may only place as many as there are placements available. You can't place the maximum of 10, unless there are 10 placements available.<br>
 <br>
 Use edit to place “Armed” mines. Use the Player “Changer” for these. You may place them anywhere there is an unarmed mine (including ones you purchased that turn). When you place the armed mines, you will need to use the “Comment Log” stating which Border they are defending in the territory. To access the comment log, go to the “View” menu, and click “Show Comment Log”.<br>
 <br>
@@ -378,6 +364,7 @@ Bryansk<br>
 Rostov<br>
 Caucasus<br>
 Novgorod<br>
+Archangel<br>
 <br>
 <b>IMPORTANT</b><br>
 <br>
@@ -387,14 +374,12 @@ If you can't find the LM your looking for, select another and document in Commen
 <br>
 There are also LM Boxes that show the corresponding color for certain Borders. These are for informational purposes only.<br>
 <br>
-Using the mines in combat requires use of the "Dice Roller". It is located in the "Game" menu next to View. If only 1 battle is to take place, at the <b>START</b> of your combat move, determine how many units are crossing the minefield and roll as many dice as there are armed mines. Use edit to remove any casualties and any mines that detonated. Excess mine hits are not removed.<br>
-<br> You <b>must</b> do any edits <b>before</b> starting the combat move if there is to be only 1 battle that phase. So, if needed, do a dry run and note the units entering the minefield. Use comment log if necessary.<br>
-<br>
-If there will be multiple battles, you will be able to edit before the first battle takes place. <br>
-<br>
-The Dice Roller is not tracked in "History" so you may use the comment log if you want to keep a record of the rolls/hits. If playing by Forum, it is recommended to use the Axis & Allies.org dice roller.<br>
-<br>
-You may load no more than 3 mines on a transport. This is Player Enforced.<br>
+Using the mines in combat requires use of the "Dice Roller" or if playing by forum, dicebot. Follow these steps:<br><br>
+Do your Entire Combat Move.<br>
+Roll for any Landmines that have been crossed and make note of any hits.<br>
+At the Beginning of Combat, if there were any LM hits, go to Edit and remove the appropriate units and LMs.<br>
+Then, turn Edit off and fight the battle normally.<br><br>
+If there is only one battle to be fought, you will need to be in Edit before you start Battle Phase, as triplea will immediately start the battle.<br>
 <br>
 Do not take mines as casualties in combat. Player enforced. When a territory is conquered, all the unarmed mines will be destroyed. Armed Changer mines will be unaffected.<br>
 <br>
@@ -412,12 +397,14 @@ May be turned on in "Map Options".<br>
 <img src="Escort_Convoy.png"/> <br><br>
 Most Solo Escorts will now Auto change at End Turn. Use edit to place and remove the "Escort Convoy" unit(s) when Convoys are formed or dispersed when necessarry. Transports must be taken as casualties last. This is Player Enforced.<br>
 <br>
-Do not attack Subs without a Destroyer present. This is also Player Enforced. If you have a mixed Fleet without Destroyers attacking Subs, allocate the Escort hits to other Vessels when possible. If Subs submerge after first round of combat, use edit to replace any illegal Escort hits at the end of combat. If they don't submerge, then count any Escort hits. <br>
+When attacking Submarines without a DD present, edit in Escort_ConvoyA<br><br><img src="Escort_ConvoyA.png"/> <br><br> These will not be able to attack Submarines. Edit back after battle if needed. <br>
 <br>
 Do not take Transports as casualties the first three rounds Player Enforced. You will have to kill them in battle, so you may want to quit battle and edit accordingly or continue battle till they're all dead.<br>
 <br>
 <b>NOTE</b> When Transports gain the ability to Defend, they still won't Block or Force a Naval Battle. They can still be ignored if by themselves. Triplea does this correctly.<br>
 <br>
+Also, if using Naval Mines, Escorts are considered Transports. You may need to use edit to bypass Submarines in some situations.<br>
+It will ask if you want to atttack the Escort/Transport before battle as well.<br><br>
 May be turned off in "Map Options".<br>
 <br>
 <b>6. US National Guard</b><br>
@@ -472,7 +459,11 @@ If you have more than 1 battle taking place, you will be able to use edit before
 "Repair_BB" will repair 1 hit point of damage for <b>ALL</b> Battleships, Heavy and non Heavy. If you have just a Heavy BB with 2 damage, it will repair it Fully, so you need to Player Enforce purchasing the correct amount of Repair Units. <br><br>
 It Defaults to repairing a Battleship and not a Heavy BB if only 1 Repair Unit and both are present.
 <br>
-You need to edit to <b> "Hvy_BB_Dmgd" and "BB_Damaged"</b> before your next combat turn if needed and apply the appropriate amount of damage. This is so it can continue to attack in battle but not after battle when taking damage. Most BBs will repair, so will rarely be necessary.<br><br>
+<br>
+<b>Important</b><br>
+<br>
+You need to edit to <b>"Hvy_BB_Dmgd" and "BB_Damaged"</b> before your next combat turn if needed and apply the appropriate amount of damage. This is so it can continue to attack in battle but not after battle when taking damage. Most BBs will repair, so will rarely be necessary.<br>
+<br>
 <b>Section III</b><br>
 <br>
 <b>1. US Armoured Infantry</b><br>
@@ -493,7 +484,9 @@ Each Major Power's Rail Units will place before Combat Move. Germany, Russia, th
 <br>
 This is to help remind the Player of it's non combat move availability. They will not be able to move in combat move. The one with a "E" on it is for Europe movement. This is to keep track of rail movement. <br>
 <br>
-A rail unit will move any unit regardless of theatre.<br>
+Rail Units are now Nation Specific and will only move where they are allowed to. You may still need to use edit in certain situations.<br><br>
+Click on the Rail unit and then click the unit you want to move.<br>
+<br>
 Click on the Rail unit and then click the unit you want to move.<br>
 <br>
 Use edit "Perform Move or Other Actions" if necessary to make your move.<br>
@@ -503,11 +496,14 @@ Correct movement is Player Enforced.<br>
 <b>Note</b><br>
 Kansu Rail will <b>Not</b> Place if Japanese controlled. Use Edit if needed to make legal Rail moves.<br>
 <br>
+Japanese Rail will not Place if All of China is Chinese controlled. Use edit to move Japanese units if needed.<br>
+<br>
 <b>4. Home Defense</b><br>
 <br>
-Use edit to place the 2 Japanese Infantry. Use the Dice roller to roll the first round battles and edit to remove casualties <b>before</b> start of combat.<br>
+<img src="HomeDefense.png"/> <br><br>
+Use edit to place a "HomeDefense" token. It will place 2 Infantry for Japan and boost the Infantry and Fighters by 1 on defense for the first round only for UK and Japan.<br>
+It will then auto remove after first round of battle and the remaining units will revert to their normal defense factor.
 <br>
-So, do your combat move. Manually roll first round of battle. Then end combat move. Then edit to remove casualties. Then start combat phase.<br>
 <br>
 <b>5. Landing Craft</b><br>
 <br>
@@ -524,7 +520,9 @@ Use edit "Perform Move or Other Actions" for movement across Sea Zones. You will
 <br>
 <img src="D-Day.png"/> <br><br>
 Purchase a "DDayEurope" Token <br><br>
-<img src="DDayEurope.png"/> <br><br>and place during first Place Phase in USA.<br>
+<img src="DDayEurope.png"/> <br><br>and place during first Place Phase in USA.<br><br>
+<b>NOTE</b><br>
+You may now move the "D-Day" Token from the "Early 1944" Box in NCM, making purchase of the token unnecessary.<br><br>
 Move all USA Land Units to participate in D-Day, including DDayEurope Token ( this isn't required but is helpful for information purposes ), to D-Day Box during USA Non Combat Move Phase using Edit "Perform Move or Other Actions". <br>Once you click on "Perform Move or Other Actions" you may perform multiple moves, even if they aren't all at once. In other words, you don't need to click on "Perform Move or Other Actions" for every move.<br><br>
 <b>Note</b><br>
 The "DDayEurope" Token is American controlled. <b>DO NOT</b> move it into Battle first or none of the British Units will be able to attack. You'll be able to move them but they won't take part in the battle.<br><br>
@@ -549,7 +547,7 @@ Automatic change from USA to UK may be added in the future.<br>
 <b>7. Red Army Conscription</b><br>
 <br>
 <img src="RedArmyConscript.png"/> <br><br>
-Placement Restrictions Player Enforced. So no more than 20 in Moscow and 6 in the Minor Factories. Max build of 26 <b>is</b> Player Enforced.<br>
+Placement Restrictions Player Enforced. So no more than 20 in Moscow and 6 in the Stalingrad Factories. May Place 3 for normal place in other Factories.<br> Max build of 26 <b>is</b> Player Enforced.<br>
 <br>
 <b>Note</b><br>
 May Max Place Regardless of Factory Damage.<br><br>
@@ -558,19 +556,21 @@ May be turned off in "Map Options".<br>
 <b>8. German U-boats</b><br>
 <br>
 <img src="Wolfpack.png"/> <br><br>
-<b>It is Recommended to Roll All Wolfpack Battles in Edit Mode Using the Intended Rules</b><br><br>
-For Larger Battles, use Dicebot or the Dice Roller for the 1st round of Battle and then Edit the results accordingly before starting the Combat Phase.<br>
+<b>NOTE<br><br>
+New Wolfpack Procedure as of May 10 2024.</b><br>
 <br>
-"Wolfpack" units are A0 D0 C0 units with unlimited movement. They are for informational and decorative purposes.<br>
+"Wolfpack" units are A0 D0 C0 units with unlimited movement. They provide a plus 1 on Attack and plus 2 on Defense to <B>ALL</b> U-Boats.<br>
+Triplea will auto place and remove Wolfpacks before the start of combat. In rare instances you may need to Player Enforce usage. A "Wolfpack" is only formed when there are 3 or more U-Boats in same Sea Zone.<br>
 <br>
-You may place Wolfpack units in <b>any</b> sea zone next to German controlled territories. Use edit if needed to place elsewhere. Place them in the First place phase so they can be used that turn.<br>
-They have unlimited movement but will still be blocked by Destroyers, so use "Perform Move Or Other Actions" in edit if needed.<br>
+They will auto sink after first round of combat rolls. <br>
 <br>
-Do not take as casualties. They will auto die if they are the only units left. They still need to be hit though, so if you get tired of rolling, simply submerge Wolfpack and he will die at the end of the phase. <br>
+If a Wolfpack is attacked by Enemy Submarines and there is no Destroyer present to defend them, any First Strike hits that would leave the Wolfpack with less than 3 U-Boats, will not remove the Wolpack combat bonus.<br>
+In that case, you will need to fight the battle in edit or for a larger battle, use dicebot/roller and edit accordingly.<br>
+<br><b>NOTE</b><br>
 <br>
-After combat, triplea will remove any Wolfpack units that are in the Atlantic Ocean or Mediterranean Sea that no longer meet the requirement for a Wolfpack, before the Germans non combat move.<br>
-You will need to use edit to remove any additional Wolfpacks before Germany's next combat move, if enemy attacks have done the same.br>
-<br> 
+If attacking with Air and Submarine/U-boats, triplea will ask if you want to retreat the Air or submerge the Subs.<br>
+This is incorrect as you <b>MUST</b> Retreat all attacking units at the same time.<br>
+<br>
 <b>9. Waffen Paratroopers</b><br>
 <br>
 <img src="Waffen_Para.png"/> <br><br>
@@ -642,12 +642,18 @@ When in Combat, Kill the PG first if you won't have enough units left to keep th
 <br>
 Edit in the "tactical_bomberPG/TG" before battle to prevent excessive attack bonus if needed. They will receive no Armour support.<br>
 <br>
+<b>NOTE</b><br><br>
+If a Tactical Bomber is present with other Tanks Not part of the Tank Army at start of Battle, Kill the Tac Bmbr and leave a Tank alive instead so the Tac Bmbr will not give it's bonus to the Tank Army if needed.<br>
+<br>
+Edit the Tac Bmbr back in after battle if the Tank it took the hit for survives. Should be a rare occurrence.<br><br>
 <b>6. Army Group</b><br>
 <br>
 <img src="ArmyGroupCentre.png"/> <br><br>
 There are 2 Flags. "Army Group Active" is the Flag for receiving the combat bonus.<br>
 <br>
 If the Army Group will disband after a round of combat, you must kill the Army Group or it will continue to attack. Flags will take a hit. This is unintended. It is suggested to give the defending territory an "Inactive" Army Group Flag if no Army Group is present in order to offset the hit from the attacking Flag. Do not take as casualty until after the attacking Flag is chosen as a casualty.<br>
+<br>
+Or to be rule compliant you may roll the battle in edit. This actually works quite well as you generally have to change some of the triplea casualty selections anyway.<br>
 <br>
 <b>NOTE</b><br>
 The Army Group Does Not provide a Movement Bonus to the Units in the AG. They must still move at their allotted amount.<br>
@@ -673,7 +679,6 @@ For First turn Italy is Taken Over, Buy Mech Infantry instead of Paras if needed
 <img src="TotalWar.png"/> <br><br>
 Placement number is Player Enforced. Only place during 2nd plase phase or they won't change. If unable to place in a legal spot, use edit. This should be a rare occurence.<br> <b>Note</b> If Russia buys more than one Total War Tank, use Edit to Correct PU's or Units, as you can only use the "Mass Tank" build once and there is no other Total War Tank build.
 <br>
-Navy Fighters must be placed in Japan and Western United States. Use edit to move them to their correct Sea Zones.<br>
 <br>
 <b>9. Air Transport</b><br>
 <br>
@@ -757,6 +762,8 @@ Only move 1 space in NCM. Do not take as casualty. Player Enforced. Will auto di
 <br>
 <br>
 If Attacking a Army/Corps or Army Group, do the Rocket Attacks with Dicebot or the Dice Roller before Battle if needed, so you can adjust casualties Before Combat Starts.<br>
+<br>
+When placing in a damaged Factory, you may only place as many as there are placements available. You can't place the maximum of 10, unless there are 10 placements available.<br>
 <br>
 <b>11. Bidding</b><br>
 <br>
@@ -891,11 +898,14 @@ From Late 1944 Japan can launch Kamikaze attacks<br>
 Japanese Kamikaze attacks can be launched anywhere on the game board<br>
 Japan can launch a maximum of 1 Kamikaze attack in each round<br>
 The Japanese player must choose a Japanese Air Unit to be used in a Kamikaze attack<br>
-The Kamikaze Air Unit must be one of the following Air Units: Fighter, Tactical Bomber, Strategic Bomber, Carrier Based Fighter<br>
+The Kamikaze Air Unit must be one of the following Air Units: Fighter, Tactical Bomber, Strategic Bomber<br>
 The Kamikaze Air Unit can use up all its movement to reach an enemy Target Naval Unit<br>
 The enemy naval unit that is attacked by Japanese Kamikaze must be the same type of naval units as mentioned in the G40 OOB rulebook<br>
 The Japanese Kamikaze Air Unit attacks at “5”<br>
 There is no defense against a Japanese Kamikaze attack<br>
+<br>
+Beginning Rd 10, A Kamikaze Unit will auto spawn the same way as the Banzai unit and work similar.<br>
+Rules are Player Enforced.<br>
 <br>
 <b>23. FlakTower</b><br>
 <br>
@@ -910,14 +920,44 @@ https://www.axisandallies.org/forums/topic/36945/axis-allies-global-1940-house-r
 You will need to remove any AA Guns and replace with "aaGunNO".<br>
 <br>
 <img src="aaGunNO.png"/> <br><br>
-They will defend at 1 but will not fire at planes.<br>
+Can be taken as a hit but will not fire at planes.<br>
 <br>
-The Tower has Max Damage of 6. This allows you to take the 5 Hit Points of Damage without killing it. You need to roll All AA shots with Dice roller before battle and edit accordingly.<br>
+The Tower has Max Damage of 6. This allows you to take the 5 Hit Points of Damage without killing it. One repair unit will fix <b>All</b> damage, so Player enforce the correct amount.<br>
+<br><b> You need to roll All AA shots for Fighter Units with Dice roller before battle and edit accordingly.<br>
+It will Fire at All Bombers, except Heavy Bombers, correctly at 2. </b><br>
 <br>
-They Fire at <b>ALL</b> planes. 1 at Fighters and 2 at Tac Bmbrs and Bmbrs.<br>
+By Rule they Fire at <b>ALL</b> planes. 1 at Fighters and 2 at Tac Bmbrs and Bmbrs.<br>
 <br>
-It' can't be captured, so kill as last unit left, then edit it and the damage back in to the Victor.<br>
+It can't be captured, so kill as last unit left, then edit it and the damage back in to the Victor.<br>
 <br>
+<b>24. Strict Neutral Nations</b><br>
+<br>
+Adds The Captain's Strict Neutral Rules.<br>
+<br>Explained in detail here <br><br>
+https://www.axisandallies.org/forums/assets/uploads/files/1710313916575-g40-strict-neutrals.pdf
+<br>
+<br>
+<b>25. U-Boat Pens</b><br>
+<br>
+Adds The Captain's German U-Boat Pens.<br> Image created by Hepps.
+<img src="SubPen.png"/>
+<br>Explained in detail here <br><br>
+https://www.axisandallies.org/forums/assets/uploads/files/1717401203834-7.german-u-boat-pen.pdf
+<br>
+<br>
+You will need to edit in and out the "UboatPen" <img src="UBoatPen.png"/> and  "XXI_UboatPen" <img src="XXI_UBoatPen.png"/> as needed.<br><br>
+They are owned by Changer and work similar as Landmines, in that they cannot be attacked.<br><br>
+Rules are Player Enforced. <br><br>
+<b>26. Operation Felix-Heinrich</b><br>
+<br>
+Adds The Captain's Operation Felix-Heinrich.<br> 
+<br>Explained in detail here <br><br>
+https://www.axisandallies.org/forums/assets/uploads/files/1717401219557-8.g40-operation-felix-heinrich.pdf
+<br>
+<br>
+Purchase a "Take Over Spain" Token, place in Germany in 1st place phase and Declare War on the Neutrals.<br>
+The Neutral Spainards will remove before combat and be replaced with Neutral Axis after combat.<br><br>
+Rules are Player Enforced. <br><br>
 <b>Unofficial SBR Option</b><br>
 <br>
 This is independent of the Captain and Company's Awesome House Rules, thus "Unofficial". :) 
@@ -946,6 +986,9 @@ When France is Liberated, Normandy Bordeaux will no longer turn French.<br><br>
 <b>Victory Conditions</b><br>
 <br>
 These are currently Player Enforced. They will be added at a later date. <br>
+<br>
+<b>NOTE<br><br>
+For Economic Victory you will have to manually add and subtract any Pacific Island value changes.</b><br>
 <br>
 <b>18)Unofficial "Charles de Gaulle Neutrals Modified"</b><br>
 <br>
@@ -978,8 +1021,8 @@ Uraguay: 1 infantry<br>
 Argentina: 6 infantry<br>
 SZ 66 (aligned with Argentina): 1 cruiser<br>
 Chile: 4 infantry<br>
-Mozambique: 1 infantry<br>
-Angola: 1 infantry<br>
+Mozambique: 2 infantry<br>
+Angola: 2 infantry<br>
 Portugal: 4 infantry, 1 artillery, 1 AA gun<br>
 SZ 104 (aligned with Portugal): 1 cruiser, 1 transport<br>
 Spain: 10 infantry, 1 artillery, 1 AA gun, 1 tank, 1 fighter<br>
@@ -1011,11 +1054,113 @@ Thanks to General Zod, wc_sumpton, hepps, redrum, The Dog and others for xml hel
 <br>
 Change Log UHD Boxes:
 <br>
-<br>Version 1.97<br> 3/30/24 
+<br>Version 2.1694<br> 8/21/24 
+<br>
+Correct Naval Mines to be at Game Start.
+<br>
+<br>Version 2.1693<br> 8/15/24 
+<br>
+Add "Escort_ConvoyA". These will Not Fire at Submarines.<br>
+Add SubPen to TimeTable.
+<br>
+<br>Version 2.1692<br> 8/10/24 
+<br>
+Fix Conscript Removal and Infantry Place.
+<br>
+<br>Version 2.168<br> 7/26/24 
+<br>
+Fix Japan Rail.
+<br>
+<br>Version 2.167<br> 7/25/24 
+<br>
+Have "ParaBoost" Auto Place.
+<br>
+<br>Version 2.166<br> 7/16/24 
+<br>
+Fix "Total War Fighters" Not Placing on Carriers.<br>
+Make Rail Units More Rule Compliant.<br>
+Have Russian Conscripts Change to Infantry in Most Situations.<br>
+Add Kamikaze Air Unit For Japan.<br>
+<br>
+<br>Version 2.165<br> 7/5/24 
+<br>
+Fix Russian National Objective "No Allies".<br>
+Add some Images to Notifications.<br>
+Fix ANZAC Receiving 2 PU Bonus for Control of Celebes.
+<br>
+<br>Version 2.164<br> 6/25/24 
+<br>
+Fix Pacific Islands. You No Longer Receive a Negative Bonus for Losing Control Unless you are the Original Owner.<br>
+Fix Being Able to Place More than 10 Landmines in Capitals in One Turn.<br>
+Make "Elite" Able to Place in Army Group Boxes.<br>
+Add "HomeDefense" Token.<br>
+Make Japanese Rail Not Place if All of China is Free.<br>
+Change Victory Conditions in Objectives Tab. Will Not Trigger.
+<br>
+<br>Version 2.163<br> 6/7/24 
+<br>
+Add German U-Boat Pens.<br>
+Add Operation Felix-Heinrich.<br>
+Add Lend Lease Fee Purchase for USA/UK Lend Lease.
+<br>
+<br>Version 2.162<br> 6/5/24 
+<br>
+Fix Dutch Pacific Islands.
+<br>
+<br>Version 2.161<br> 5/31/24 
+<br>
+Fix Tankograd not Showing up in TimeTable.<br>
+Add "USA_LendLeaseUK" to TimeTable.<br>
+Make Landmines Solo the Only Landmine Option.<br>
+Allow "D-Day" Token to move in NCM from "Early 1944" Box.
+<br>
+<br>Version 2.16<br> 5/27/24 
+<br>
+Improve Pacific Island.
+<br>
+<br>Version 2.14<br> 5/19/24 
+<br>
+Imrove Wolfpacks Auto Place and Remove Before Combat. Thank You WC Sumpton ! <br>
+Correct Pacific Island Bonus being Given to Original Owner of Island.
+<br>
+<br>Version 2.11<br> 5/10/24 
+<br>
+Make Wolfpacks Auto Place and Remove Before Combat.<br>
+Correct UK Objective for Control of European Territorries to only Require those that have a PU Value.<br>
+Add Strict Neutrals to the Game Notes.<br>
+Add Notification for USA/UK Lend Lease.<br>
+Fix Russia DOW on Japan before Round 3 Notification.
+<br>
+<br>Version 2.1<br> 5/5/24 
+<br>
+Add Tankograd to TimeTable.<br>
+Make Minor Factories Movable in Edit.
+<br>
+<br>Version 2.0<br> 5/2/24 
+<br>
+Change Wolfpacks to Auto place after EndTurn.
+<br>
+<br>Version 1.99<br> 4/29/24 
+<br>
+Fix "WaffenPnzrGrndr" Not Being Air Transportable.<br>
+Fix Germany Getting Italy's Oil Objective Twice When Italy Has Been Taken Over.<br>
+Fix FlakTower Not Taking Damage and Repairing.<br>
+Make Take Over Italy Token Not Count as a Placement.<br>
+Update Game Notes for Landmines, Escorts and Wolfpacks.<br>
+Add Alternate Panzer and Tank Generals.<br>
+Make "Wolfpack" Boost U-boats to 3 for First Round of Battle.<br>
+Add "..._paraBoost" Unit that makes Paratroopers Attack and Defend at 3 for First Round of Battle.
+<br>
+<br>Version 1.98<br> 4/11/24 
+<br>
+Fix FlakTower Not Showing up in Purchase Window.
+<br>
+<br>Version 1.97<br> 4/1/24 
 <br>
 Revert Bermuda to US Control.<br>
 Add FlakTower to Berlin for 43 Mod.<br>
-Notifications for too Many Units.
+Notifications for too Many Units. Only Works for Waffen Infantry, Panzer Grenadiers and Paratroopers in Berlin.<br>
+Remove aaGun ability to Defend at 1 in Land Combat.
 <br>
 <br>Version 1.96<br> 3/24/24 
 <br>
